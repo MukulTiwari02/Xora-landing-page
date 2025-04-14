@@ -5,7 +5,7 @@
 ## 🌐 Live Demo
 
 Check out the live version of the site here:  
-🔗 [https://xora-demo.netlify.app](https://xora-demo.netlify.app)
+🔗 [Live Demo](https://xora-demo.netlify.app)
 
 ---
 
